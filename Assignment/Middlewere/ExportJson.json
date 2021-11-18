@@ -1,0 +1,703 @@
+{ 
+"objects":[ 
+{ 
+"ID":"1",
+"Author":"Stephen King",
+"Books":"The Odyssey",
+"Pages":"241",
+"Year":"September 1954"
+},
+{ 
+"ID":"2",
+"Author":"Doris Lessing",
+"Books":"The Old Man and the Sea",
+"Pages":"388",
+"Year":"February 1989"
+},
+{ 
+"ID":"3",
+"Author":"Kurt Vonnegut",
+"Books":"Madame Bovary",
+"Pages":"410",
+"Year":"October 1956"
+},
+{ 
+"ID":"4",
+"Author":"Doris Lessing",
+"Books":"Tess of the d'Urbervilles",
+"Pages":"122",
+"Year":"May 1965"
+},
+{ 
+"ID":"5",
+"Author":"Henry James",
+"Books":"Tristram Shandy",
+"Pages":"388",
+"Year":"September 1959"
+},
+{ 
+"ID":"6",
+"Author":"Flannery O'Connor",
+"Books":"War and Peace",
+"Pages":"202",
+"Year":"May 1979"
+},
+{ 
+"ID":"7",
+"Author":"Dr. Seuss",
+"Books":"To the Lighthouse",
+"Pages":"467",
+"Year":"February 1959"
+},
+{ 
+"ID":"8",
+"Author":"Mark Twain",
+"Books":"Anna Karenina",
+"Pages":"315",
+"Year":"June 1984"
+},
+{ 
+"ID":"9",
+"Author":"Franz Kafka",
+"Books":"Nineteen Eighty Four",
+"Pages":"440",
+"Year":"August 2002"
+},
+{ 
+"ID":"10",
+"Author":"Henry James",
+"Books":"Pride and Prejudice",
+"Pages":"265",
+"Year":"March 2018"
+},
+{ 
+"ID":"11",
+"Author":"Guillaume Musso",
+"Books":"The Sun Also Rises",
+"Pages":"372",
+"Year":"September 1980"
+},
+{ 
+"ID":"12",
+"Author":"Cormac McCarthy",
+"Books":"Don Quixote",
+"Pages":"135",
+"Year":"March 2012"
+},
+{ 
+"ID":"13",
+"Author":"Edgar Allan Poe",
+"Books":"Anna Karenina",
+"Pages":"360",
+"Year":"May 1987"
+},
+{ 
+"ID":"14",
+"Author":"Mark Twain",
+"Books":"Vanity Fair",
+"Pages":"369",
+"Year":"March 1982"
+},
+{ 
+"ID":"15",
+"Author":"F. Scott Fitzgerald",
+"Books":"One Hundred Years of Solitude",
+"Pages":"167",
+"Year":"September 1953"
+},
+{ 
+"ID":"16",
+"Author":"Henry James",
+"Books":"The Odyssey",
+"Pages":"121",
+"Year":"November 1965"
+},
+{ 
+"ID":"17",
+"Author":"Oscar Wilde",
+"Books":"The Flowers of Evil",
+"Pages":"446",
+"Year":"December 2008"
+},
+{ 
+"ID":"18",
+"Author":"Rachel Hollis",
+"Books":"The Flowers of Evil",
+"Pages":"273",
+"Year":"January 2017"
+},
+{ 
+"ID":"19",
+"Author":"John Steinbeck",
+"Books":"The Grapes of Wrath",
+"Pages":"491",
+"Year":"July 1967"
+},
+{ 
+"ID":"20",
+"Author":"Tennessee Williams",
+"Books":"The Red and the Black",
+"Pages":"429",
+"Year":"May 2015"
+},
+{ 
+"ID":"21",
+"Author":"Doris Lessing",
+"Books":"The Handmaid's Tale",
+"Pages":"220",
+"Year":"December 2000"
+},
+{ 
+"ID":"22",
+"Author":"Tennessee Williams",
+"Books":"To Kill a Mockingbird",
+"Pages":"349",
+"Year":"December 2019"
+},
+{ 
+"ID":"23",
+"Author":"Nathaniel Hawthorne",
+"Books":"Lolita",
+"Pages":"143",
+"Year":"May 1960"
+},
+{ 
+"ID":"24",
+"Author":"Stephenie Meyer",
+"Books":" Oedipus at Colonus",
+"Pages":"490",
+"Year":"April 1964"
+},
+{ 
+"ID":"25",
+"Author":"Guillaume Musso",
+"Books":"The Great Gatsby",
+"Pages":"464",
+"Year":"July 1995"
+},
+{ 
+"ID":"26",
+"Author":"Margaret Atwood",
+"Books":"Alice Adventures in Wonderland",
+"Pages":"190",
+"Year":"June 1995"
+},
+{ 
+"ID":"27",
+"Author":"Paulo Coelo",
+"Books":"Great Expectations",
+"Pages":"204",
+"Year":"May 1974"
+},
+{ 
+"ID":"28",
+"Author":"Walt Whitman",
+"Books":"Oedipus",
+"Pages":"409",
+"Year":"March 1953"
+},
+{ 
+"ID":"29",
+"Author":"Stephen King",
+"Books":"Les Misérables",
+"Pages":"306",
+"Year":"October 1952"
+},
+{ 
+"ID":"30",
+"Author":"Alexandre Dumas",
+"Books":"Oedipus",
+"Pages":"237",
+"Year":"August 1976"
+},
+{ 
+"ID":"31",
+"Author":"Edith Wharton",
+"Books":"Tess of the d'Urbervilles",
+"Pages":"301",
+"Year":"January 1990"
+},
+{ 
+"ID":"32",
+"Author":"G.R.R. Martin",
+"Books":"Oedipus",
+"Pages":"443",
+"Year":"May 1991"
+},
+{ 
+"ID":"33",
+"Author":"Doris Lessing",
+"Books":"Alice Adventures in Wonderland",
+"Pages":"338",
+"Year":"March 2005"
+},
+{ 
+"ID":"34",
+"Author":"Rachel Hollis",
+"Books":"Oedipus",
+"Pages":"340",
+"Year":"November 2020"
+},
+{ 
+"ID":"35",
+"Author":"Tennessee Williams",
+"Books":"The Red and the Black",
+"Pages":"487",
+"Year":"May 1977"
+},
+{ 
+"ID":"36",
+"Author":"Guillaume Musso",
+"Books":"The Magic Mountain",
+"Pages":"292",
+"Year":"February 1957"
+},
+{ 
+"ID":"37",
+"Author":"Dr. Seuss",
+"Books":"Paradise Lost",
+"Pages":"282",
+"Year":"May 1980"
+},
+{ 
+"ID":"38",
+"Author":"Harper Lee",
+"Books":"The Flowers of Evil",
+"Pages":"339",
+"Year":"March 1956"
+},
+{ 
+"ID":"39",
+"Author":"Margaret Atwood",
+"Books":"The Red and the Black",
+"Pages":"326",
+"Year":"August 1953"
+},
+{ 
+"ID":"40",
+"Author":"C.S. Lewis",
+"Books":"The Divine Comedy",
+"Pages":"178",
+"Year":"August 2007"
+},
+{ 
+"ID":"41",
+"Author":"Jules Verne",
+"Books":"The Old Man and the Sea",
+"Pages":"370",
+"Year":"July 2000"
+},
+{ 
+"ID":"42",
+"Author":"William Faulkner",
+"Books":"Don Quixote",
+"Pages":"327",
+"Year":"November 1992"
+},
+{ 
+"ID":"43",
+"Author":"Margaret Atwood",
+"Books":"Great Expectations",
+"Pages":"219",
+"Year":"August 1963"
+},
+{ 
+"ID":"44",
+"Author":"Ralph Waldo Emerson",
+"Books":"The Red and the Black",
+"Pages":"119",
+"Year":"April 1991"
+},
+{ 
+"ID":"45",
+"Author":"Alexandre Dumas",
+"Books":"The Magic Mountain",
+"Pages":"346",
+"Year":"August 2001"
+},
+{ 
+"ID":"46",
+"Author":"Tennessee Williams",
+"Books":"Gulliver's Travels",
+"Pages":"250",
+"Year":"January 2014"
+},
+{ 
+"ID":"47",
+"Author":"Bella Forrest",
+"Books":"Pride and Prejudice",
+"Pages":"279",
+"Year":"March 2013"
+},
+{ 
+"ID":"48",
+"Author":"Stephen King",
+"Books":"The Divine Comedy",
+"Pages":"347",
+"Year":"August 2016"
+},
+{ 
+"ID":"49",
+"Author":"Paulo Coelo",
+"Books":"War and Peace",
+"Pages":"152",
+"Year":"July 1991"
+},
+{ 
+"ID":"50",
+"Author":"Robert Frost",
+"Books":"Invisible Man",
+"Pages":"450",
+"Year":"October 1981"
+},
+{ 
+"ID":"51",
+"Author":"Cormac McCarthy",
+"Books":"Gulliver's Travels",
+"Pages":"215",
+"Year":"February 1969"
+},
+{ 
+"ID":"52",
+"Author":"Barbara Cartland",
+"Books":"The Handmaid's Tale",
+"Pages":"376",
+"Year":"September 1977"
+},
+{ 
+"ID":"53",
+"Author":"Ralph Waldo Emerson",
+"Books":"Pride and Prejudice",
+"Pages":"415",
+"Year":"March 2006"
+},
+{ 
+"ID":"54",
+"Author":"Jane Austen",
+"Books":"The Scarlet Letter",
+"Pages":"226",
+"Year":"May 2020"
+},
+{ 
+"ID":"55",
+"Author":"William Faulkner",
+"Books":"The Good Soldier",
+"Pages":"276",
+"Year":"June 1962"
+},
+{ 
+"ID":"56",
+"Author":"Franz Kafka",
+"Books":"Les Misérables",
+"Pages":"367",
+"Year":"June 1956"
+},
+{ 
+"ID":"57",
+"Author":"Danielle Steel",
+"Books":"Tristram Shandy",
+"Pages":"178",
+"Year":"February 1979"
+},
+{ 
+"ID":"58",
+"Author":"Horatio Alger",
+"Books":"Game of Thrones",
+"Pages":"362",
+"Year":"July 2015"
+},
+{ 
+"ID":"59",
+"Author":"Kurt Vonnegut",
+"Books":"The Brothers Karamazov ",
+"Pages":"211",
+"Year":"March 2019"
+},
+{ 
+"ID":"60",
+"Author":"Danielle Steel",
+"Books":"The Scarlet Letter",
+"Pages":"185",
+"Year":"June 1952"
+},
+{ 
+"ID":"61",
+"Author":"Kurt Vonnegut",
+"Books":"Alice Adventures in Wonderland",
+"Pages":"380",
+"Year":"June 2009"
+},
+{ 
+"ID":"62",
+"Author":"Rachel Hollis",
+"Books":"Alice Adventures in Wonderland",
+"Pages":"332",
+"Year":"June 1951"
+},
+{ 
+"ID":"63",
+"Author":"J. K. Rowling",
+"Books":"Ulysses",
+"Pages":"201",
+"Year":"October 1987"
+},
+{ 
+"ID":"64",
+"Author":"Ralph Waldo Emerson",
+"Books":"Vanity Fair",
+"Pages":"146",
+"Year":"March 1991"
+},
+{ 
+"ID":"65",
+"Author":"Walt Whitman",
+"Books":"Pride and Prejudice",
+"Pages":"249",
+"Year":"November 1956"
+},
+{ 
+"ID":"66",
+"Author":"Franz Kafka",
+"Books":"Invisible Man",
+"Pages":"134",
+"Year":"January 2008"
+},
+{ 
+"ID":"67",
+"Author":"Stephenie Meyer",
+"Books":"David Copperfield",
+"Pages":"481",
+"Year":"August 2013"
+},
+{ 
+"ID":"68",
+"Author":"Carlos Ruiz Zafon",
+"Books":"The Brothers Karamazov ",
+"Pages":"301",
+"Year":"June 1958"
+},
+{ 
+"ID":"69",
+"Author":"Nathaniel Hawthorne",
+"Books":"The Good Soldier",
+"Pages":"202",
+"Year":"April 1961"
+},
+{ 
+"ID":"70",
+"Author":"Oscar Wilde",
+"Books":"Moby Dick",
+"Pages":"469",
+"Year":"December 2017"
+},
+{ 
+"ID":"71",
+"Author":"Guillaume Musso",
+"Books":"The Canterbury Tales",
+"Pages":"385",
+"Year":"April 1951"
+},
+{ 
+"ID":"72",
+"Author":"J. R. R. Tolkien",
+"Books":"The Canterbury Tales",
+"Pages":"373",
+"Year":"February 2005"
+},
+{ 
+"ID":"73",
+"Author":"Danielle Steel",
+"Books":"Tess of the d'Urbervilles",
+"Pages":"491",
+"Year":"September 1991"
+},
+{ 
+"ID":"74",
+"Author":"Ralph Waldo Emerson",
+"Books":"The Sound and the Fury",
+"Pages":"363",
+"Year":"October 1965"
+},
+{ 
+"ID":"75",
+"Author":"J. K. Rowling",
+"Books":"Hamlet",
+"Pages":"475",
+"Year":"September 1962"
+},
+{ 
+"ID":"76",
+"Author":"C.S. Lewis",
+"Books":"Ulysses",
+"Pages":"140",
+"Year":"August 1966"
+},
+{ 
+"ID":"77",
+"Author":"F. Scott Fitzgerald",
+"Books":"The Good Soldier",
+"Pages":"252",
+"Year":"March 1958"
+},
+{ 
+"ID":"78",
+"Author":"Mark Twain",
+"Books":"Invisible Man",
+"Pages":"247",
+"Year":"January 1960"
+},
+{ 
+"ID":"79",
+"Author":"Mark Twain",
+"Books":"The Great Gatsby",
+"Pages":"418",
+"Year":"February 1979"
+},
+{ 
+"ID":"80",
+"Author":"Jin Yong",
+"Books":"The Flowers of Evil",
+"Pages":"338",
+"Year":"May 1995"
+},
+{ 
+"ID":"81",
+"Author":"Jack London",
+"Books":"Tess of the d'Urbervilles",
+"Pages":"241",
+"Year":"July 1979"
+},
+{ 
+"ID":"82",
+"Author":"Agatha Christie",
+"Books":"Emma",
+"Pages":"142",
+"Year":"January 2007"
+},
+{ 
+"ID":"83",
+"Author":"Jack London",
+"Books":"The Good Soldier",
+"Pages":"115",
+"Year":"March 1961"
+},
+{ 
+"ID":"84",
+"Author":"Nathaniel Hawthorne",
+"Books":"Nineteen Eighty Four",
+"Pages":"429",
+"Year":"December 1982"
+},
+{ 
+"ID":"85",
+"Author":"Guillaume Musso",
+"Books":"Ulysses",
+"Pages":"290",
+"Year":"August 1977"
+},
+{ 
+"ID":"86",
+"Author":"William Shakespeare",
+"Books":"The Grapes of Wrath",
+"Pages":"390",
+"Year":"September 1996"
+},
+{ 
+"ID":"87",
+"Author":"Alexandre Dumas",
+"Books":"David Copperfield",
+"Pages":"342",
+"Year":"August 2008"
+},
+{ 
+"ID":"88",
+"Author":"Margaret Atwood",
+"Books":"Gone With the Wind",
+"Pages":"292",
+"Year":"September 1997"
+},
+{ 
+"ID":"89",
+"Author":"Harper Lee",
+"Books":"In Search of Lost Time",
+"Pages":"480",
+"Year":"October 1960"
+},
+{ 
+"ID":"90",
+"Author":"Emily Dickinson",
+"Books":"War and Peace",
+"Pages":"265",
+"Year":"July 1989"
+},
+{ 
+"ID":"91",
+"Author":"Leo Tolstoy",
+"Books":"Nineteen Eighty Four",
+"Pages":"300",
+"Year":"March 1999"
+},
+{ 
+"ID":"92",
+"Author":"Dr. Seuss",
+"Books":"Lord of the Flies",
+"Pages":"355",
+"Year":"January 2008"
+},
+{ 
+"ID":"93",
+"Author":"Herman Melville",
+"Books":"Pride and Prejudice",
+"Pages":"386",
+"Year":"August 2012"
+},
+{ 
+"ID":"94",
+"Author":"J. K. Rowling",
+"Books":"Gargantua and Pantagruel",
+"Pages":"302",
+"Year":"July 1997"
+},
+{ 
+"ID":"95",
+"Author":"William Shakespeare",
+"Books":"Anna Karenina",
+"Pages":"207",
+"Year":"May 1985"
+},
+{ 
+"ID":"96",
+"Author":"Agatha Christie",
+"Books":"The Brothers Karamazov ",
+"Pages":"491",
+"Year":"February 1968"
+},
+{ 
+"ID":"97",
+"Author":"T. S. Eliot",
+"Books":"Nineteen Eighty Four",
+"Pages":"234",
+"Year":"March 1994"
+},
+{ 
+"ID":"98",
+"Author":"Tennessee Williams",
+"Books":"David Copperfield",
+"Pages":"370",
+"Year":"February 1991"
+},
+{ 
+"ID":"99",
+"Author":"Flannery O'Connor",
+"Books":"Pride and Prejudice",
+"Pages":"109",
+"Year":"November 2007"
+},
+{ 
+"ID":"100",
+"Author":"Danielle Steel",
+"Books":"Great Expectations",
+"Pages":"227",
+"Year":"November 1993"
+}
+]}
