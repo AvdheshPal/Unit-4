@@ -7,13 +7,13 @@ app.use(express.json())
 
 let data = require('./db.json')
 
-// 1st assignment
-
+  
+  // 1st assignment
+  
 app.get("/",(req,res)=>{
-    console.log("working");
     res.send(data.data)
-})
-
+  })
+    
 // 2nd assignment
 
 
