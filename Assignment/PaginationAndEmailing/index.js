@@ -49,10 +49,8 @@ const tfuntion = (from, to, subject, text, html) => {
 
 app.get('/', async (req, res) => {
     try {
-
         const page = +req.query.page || 1;
         const size = +req.query.size || 5;
-
         const skip = (page - 1) * size;
         const totalPage = Math.ceil((await User.find().countDocuments()) / size);
         const user = await User.find().skip(skip).limit(size).lean().exec();
